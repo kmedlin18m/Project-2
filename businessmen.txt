@@ -1,0 +1,12 @@
+apple
+bacon
+bagel
+bread
+curry
+honey
+kebab
+mochi
+pizza
+salad
+salsa
+sushi

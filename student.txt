@@ -1,0 +1,14 @@
+coffee
+water
+juice
+cake
+milk
+oats
+pear
+rice
+soup
+stew
+taco
+tofu
+tuna
+
